@@ -1,5 +1,5 @@
 /**
-@author Alex Miller
+@author Bailey Clark
 @title  Sand game
 @desc   Click to drop sand
 */
